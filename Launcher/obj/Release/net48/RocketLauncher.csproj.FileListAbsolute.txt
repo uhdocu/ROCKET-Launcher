@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\bin\RocketLauncher.ini
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\bin\RocketLauncher.exe.config
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\bin\RocketLauncher.exe
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\bin\RocketLauncher.pdb
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.exe
+C:\Users\Administrator\Downloads\bubbablox-v2\Launcher\obj\Release\net48\RocketLauncher.pdb
